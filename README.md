@@ -71,23 +71,6 @@ exploring AI integration, and contributing to open-source projects.
 ![GitHub](https://img.shields.io/badge/GitHub-0f3460?style=for-the-badge&logo=github&logoColor=e8d5a3&labelColor=1a1a2e)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f3460?style=for-the-badge&logo=visualstudiocode&logoColor=e8d5a3&labelColor=1a1a2e)
 
----
-
-## GITHUB STATISTICS
-
-> Stats load live from GitHub. Push commits regularly to see them grow.
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suriya-create&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e8d5a3&icon_color=e8d5a3&text_color=a89070&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=suriya-create&hide_border=true&background=0d1117&ring=e8d5a3&fire=e8d5a3&currStreakLabel=e8d5a3&sideLabels=a89070&dates=a89070&sideNums=e8d5a3&currStreakNum=e8d5a3&stroke=0d1117" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriya-create&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8d5a3&text_color=a89070&langs_count=6" />
-
-</div>
 
 ---
 
