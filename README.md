@@ -63,7 +63,6 @@ exploring AI integration, and contributing to open-source projects.
 **Design**
 
 ![Figma](https://img.shields.io/badge/Figma-0f3460?style=for-the-badge&logo=figma&logoColor=e8d5a3&labelColor=1a1a2e)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0f3460?style=for-the-badge&logo=adobexd&logoColor=e8d5a3&labelColor=1a1a2e)
 ![Canva](https://img.shields.io/badge/Canva-0f3460?style=for-the-badge&logo=canva&logoColor=e8d5a3&labelColor=1a1a2e)
 
 **Deployment & Tools**
