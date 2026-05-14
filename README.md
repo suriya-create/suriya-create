@@ -70,7 +70,6 @@ exploring AI integration, and contributing to open-source projects.
 
 ![Git](https://img.shields.io/badge/Git-0f3460?style=for-the-badge&logo=git&logoColor=e8d5a3&labelColor=1a1a2e)
 ![GitHub](https://img.shields.io/badge/GitHub-0f3460?style=for-the-badge&logo=github&logoColor=e8d5a3&labelColor=1a1a2e)
-![Netlify](https://img.shields.io/badge/Netlify-0f3460?style=for-the-badge&logo=netlify&logoColor=e8d5a3&labelColor=1a1a2e)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f3460?style=for-the-badge&logo=visualstudiocode&logoColor=e8d5a3&labelColor=1a1a2e)
 
 ---
