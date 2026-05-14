@@ -101,29 +101,6 @@ exploring AI integration, and contributing to open-source projects.
 
 ---
 
-## FEATURED WORK
-
-<div align="center">
-
-<a href="https://github.com/suriya-create/Fullstack-Ai-Developer-Portfolio">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=suriya-create&repo=Fullstack-Ai-Developer-Portfolio&hide_border=true&bg_color=0d1117&title_color=e8d5a3&text_color=a89070&icon_color=e8d5a3" />
-</a>
-<a href="https://github.com/suriya-create/Creative-portfolio">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=suriya-create&repo=Creative-portfolio&hide_border=true&bg_color=0d1117&title_color=e8d5a3&text_color=a89070&icon_color=e8d5a3" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/suriya-create/Web-dev-portfolio">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=suriya-create&repo=Web-dev-portfolio&hide_border=true&bg_color=0d1117&title_color=e8d5a3&text_color=a89070&icon_color=e8d5a3" />
-</a>
-<a href="https://github.com/suriya-create/my-portfolio-website">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=suriya-create&repo=my-portfolio-website&hide_border=true&bg_color=0d1117&title_color=e8d5a3&text_color=a89070&icon_color=e8d5a3" />
-</a>
-
-</div>
-
----
 
 ## CONTRIBUTION ACTIVITY
 
