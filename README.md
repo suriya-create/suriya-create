@@ -72,17 +72,6 @@ exploring AI integration, and contributing to open-source projects.
 ![VS Code](https://img.shields.io/badge/VS_Code-0f3460?style=for-the-badge&logo=visualstudiocode&logoColor=e8d5a3&labelColor=1a1a2e)
 
 
----
-
-## GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=suriya-create&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" />
-
-</div>
-
----
 
 
 ## CONTRIBUTION ACTIVITY
