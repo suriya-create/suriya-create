@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suriya-create&label=PROFILE+VIEWS&color=0f3460&style=flat-square&labelColor=1a1a2e)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0f3460?style=flat-square&logo=firefoxbrowser&logoColor=e8d5a3&labelColor=1a1a2e)](https://suriya-portfolio-dev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0f3460?style=flat-square&logo=firefoxbrowser&logoColor=e8d5a3&labelColor=1a1a2e)](https://suriya-create.github.io/Portfolio-Website/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f3460?style=flat-square&logo=linkedin&logoColor=e8d5a3&labelColor=1a1a2e)](https://linkedin.com/in/suriya-k1)
 &nbsp;
