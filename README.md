@@ -90,7 +90,7 @@ exploring AI integration, and contributing to open-source projects.
 
 | | |
 |---|---|
-| **Portfolio** | [suriya-portfolio-dev.netlify.app](https://suriya-create.github.io/Portfolio-Website/) |
+| **Portfolio** | [suriya-create.github.io/Portfolio-Website](https://suriya-create.github.io/Portfolio-Website/) |
 | **LinkedIn** | [linkedin.com/in/suriya-k1](https://linkedin.com/in/suriya-k1) |
 | **Instagram** | [instagram.com/thesuriyaoffici](https://instagram.com/thesuriyaoffici) |
 | **Location** | Chennai, India |
